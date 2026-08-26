@@ -3,7 +3,6 @@
 
 aether
 alsa-utils
-asdcontrol
 avahi
 bash-completion
 bat
@@ -24,7 +23,6 @@ docker
 docker-buildx
 docker-compose
 dosfstools
-dotnet-runtime
 dua-cli
 evince
 exfatprogs
@@ -89,15 +87,12 @@ noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
 nvim
-obs-studio
-obsidian
 omacalc
 omacut
 omawrite
 omarchy-nvim
 pacman-contrib
 pamixer
-pinta
 plocate
 plymouth
 postgresql-libs
@@ -105,7 +100,6 @@ power-profiles-daemon
 python-gobject
 python-poetry-core
 ttfx
-qemu-user-static-binfmt
 qrencode
 qt6-imageformats
 quickshell
